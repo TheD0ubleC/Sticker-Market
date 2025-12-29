@@ -21,7 +21,7 @@
             ],
             "archive": {
                 "type": "zip",
-                "Cover": "packs/cat_capoo_cover.png",
+                "Cover": "packs/cat_capoo_cover.webp",
                 "url": "packs/cat_capoo_v1.zip"
             }
         },
