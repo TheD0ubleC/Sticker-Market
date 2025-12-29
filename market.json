@@ -1,0 +1,44 @@
+{
+    "schema": "sticker-selector-market@1",
+    "name": "StickerSelector Static Community Market",
+    "description": "Public sticker packs for StickerSelector",
+    "compatibility": {
+        "sticker_selector": ">=1.1.0"
+    },
+    "packs": [
+        {
+            "id": "cat_capoo",
+            "name": "猫猫虫咖波",
+            "author": "YiYi(TheD0ubleC)",
+            "version": "1.0",
+            "description": "包含了13张猫猫虫表情包。",
+            "tags": [
+                "猫",
+                "可爱",
+                "日常",
+                "咖波",
+                "猫猫虫"
+            ],
+            "archive": {
+                "type": "zip",
+                "url": "packs/cat_capoo_v1.zip"
+            }
+        },
+        {
+            "id": "test_id",
+            "name": "测试名称",
+            "author": "测试作者",
+            "version": "1.2.3",
+            "description": "测试描述",
+            "tags": [
+                "测试tag1",
+                "测试tag2",
+                "测试tag3"
+            ],
+            "archive": {
+                "type": "zip",
+                "url": "packs/None"
+            }
+        }
+    ]
+}
